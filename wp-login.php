@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; mywordpress &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; ThanhTung &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://thanhtung-kaka.github.io/thanhtung0104/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://thanhtung-kaka.github.io/thanhtung0104/">&larr; Quay lại mywordpress</a>		</p>
+			<a href="https://thanhtung-kaka.github.io/thanhtung0104/">&larr; Quay lại ThanhTung</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://thanhtung-kaka.github.io/thanhtung0104/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://thanhtung-kaka.github.io/thanhtung0104/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
