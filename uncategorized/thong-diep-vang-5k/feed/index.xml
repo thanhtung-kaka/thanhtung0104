@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>Sản phẩm &#8211; mywordpress</title>
-	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thanhtung-kaka.github.io/thanhtung0104</link>
+	<title>
+	Các phản hồi luận về: Thông điệp vàng (5k)	</title>
+	<atom:link href="http://localhost/myproject/wordpress/uncategorized/thong-diep-vang-5k/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thanhtung-kaka.github.io/thanhtung0104/uncategorized/thong-diep-vang-5k/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 12 Jun 2021 02:08:35 +0000</lastBuildDate>
-	<language>vi</language>
+	<lastBuildDate>Fri, 11 Jun 2021 11:50:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

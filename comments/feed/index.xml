@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
+	Bình luận cho mywordpress	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thanhtung-kaka.github.io/thanhtung0104</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 18 May 2021 03:59:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jun 2021 02:08:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Hello world! bởi Lê Thanh Tùng		</title>
+		Phản hồi cho Trang Chủ bởi Lê Thanh Tùng		</title>
 		<link>https://thanhtung-kaka.github.io/thanhtung0104/uncategorized/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[Lê Thanh Tùng]]></dc:creator>
@@ -33,7 +33,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
+		Phản hồi cho Trang Chủ bởi A WordPress Commenter		</title>
 		<link>https://thanhtung-kaka.github.io/thanhtung0104/uncategorized/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
